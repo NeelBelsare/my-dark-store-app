@@ -1,5 +1,5 @@
 # 🛵 Quick-Commerce Made Simple: Visual Non-Tech Guide & How-To Manual
-> **Sub-12 Minute Dark Store Delivery Ecosystem (Version 3.0.0 Production Release)**  
+> **Sub-12 Minute Dark Store Delivery Ecosystem (Version 4.0.0 Production Release)**  
 > **Authors:** Neel Belsare & Mansi Gaike  
 > **Target Market:** Chhatrapati Sambhajinagar (Aurangabad)  
 > 📄 **Download PDF Handbook:** [Quick_Commerce_Non_Tech_Guide.pdf](file:///Users/neelkiranbelsare/.gemini/antigravity/scratch/Dark-Store-Feasibility-Analysis/docs/Quick_Commerce_Non_Tech_Guide.pdf)  
