@@ -81,10 +81,15 @@ Experience the full quick-commerce operational loop: from customer cart placemen
 ---
 
 ### 🔐 5. InventoryPro V4 Split-Card Authentication Portal
-*New in v4.0: Modern SaaS security gate protecting operational metrics and sensitive dispatch telemetry.*
+*New in v4.0: Modern SaaS security gate protecting operational metrics, warehouse inventory, and dispatch telemetry.*
+
+<p align="center">
+  <img src="./docs/screenshots/05_inventorypro_login_portal.png" width="700" alt="InventoryPro Split-Card Authentication Portal" />
+</p>
+<p align="center"><i>Figure 6: InventoryPro V4 Authentication Portal featuring brand hero metrics, animated gradient mesh backdrop, and Supabase cloud authentication with demo bypass.</i></p>
 
 * **Left Hero Panel**: Deep purple gradient canvas (`#2E0854` $\to$ `#4E2298`) featuring an animated multi-layer CSS gradient mesh, glowing ambient orbs, 3D isometric cube branding, and live SLA KPI badges (`10 Min Delivery Goal`, `100% Live Tracking`, `99.9% Uptime`).
-* **Right Auth Card**: Clean frosted glass container with smooth input focus rings, inline Remember Me and Forgot Password controls, official Google/Apple social sign-in buttons, and direct Supabase auth integration with demo credentials.
+* **Right Auth Card**: Clean frosted glass container with smooth input focus rings, inline Remember Me and Forgot Password controls, official Google/Apple social sign-in buttons, and direct Supabase auth integration with demo credentials (`sample_username` / `password@123`).
 
 ---
 
@@ -149,6 +154,7 @@ Below is the complete file and folder breakdown of the repository:
 │       ├── 📄 02_command_center_telemetry.png       # 3D PyDeck spatial telemetry visualizer
 │       ├── 📄 03_command_center_kpis_filters.png    # Dynamic cross-filters and macro KPIs
 │       ├── 📄 04_dark_store_network_geospatial.png  # 12 Dark Store geographic coverage map
+│       ├── 📄 05_inventorypro_login_portal.png      # InventoryPro split-card authentication gate
 │       ├── 📄 non_tech_order_journey.png            # 4-stage 10-minute order lifecycle flowchart
 │       └── 📄 linkedin_post_mockup.png              # Showcase social media graphic
 │
